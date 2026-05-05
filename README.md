@@ -7,11 +7,10 @@ She/Her
 
 #### 🌱 What do I do and What have I done?
 
-- Pursuing my Master's in Computer Software Engineering at [Northeastern University](https://www.northeastern.edu/)
-- Previously Full Stack Developer Intern @Aikreate — built KreateBlock, a Blockly-based visual coding SPA deployed to ~50 students
-- Lately building **Buffett Intelligence** — a hybrid RAG pipeline over Berkshire Hathaway letters using FAISS, BM25, and cross-encoder reranking
-- HMU if you're working at the intersection of **frontend + finance + AI** — that's my sweet spot
-- Outside code: I have a finance background and a long-term dream of opening my own café ☕
+- Currently pursuing my Master's in Computer Software Engineering at Northeastern University
+- Previously Full Stack Developer Intern @Aikreate
+- Lately deep diving into RAG and Flutter
+- HMU if you're working at the intersection of **frontend + AI**
 
 ---
 
@@ -49,7 +48,7 @@ She/Her
 
 #### 💼 What I'm looking for
 
-Open to **SE, Frontend, and Full-Stack** roles starting 2026 — bonus points for a design or fintech angle.
+Open to **SE, Frontend, and Full-Stack** roles starting 2026 
 
 #### 📫 How to reach me
 
