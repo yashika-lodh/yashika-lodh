@@ -1,6 +1,16 @@
+<div align="center">
+
 # Hi there, I'm Yashika! 👋
 
-### I'm a Full Stack Developer. Currently at Northeastern University, Boston.
+### Full Stack Developer · I build clean, fast interfaces and the backends that power them
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashikalodh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lodhyashika@gmail.com)
+
+</div>
+
+---
 
 #### 😄 Pronouns
 She/Her
@@ -48,10 +58,4 @@ She/Her
 
 #### 💼 What I'm looking for
 
-Open to **SE, Frontend, and Full-Stack** roles starting 2026 
-
-#### 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashikalodh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lodhyashika@gmail.com)
+Open to **SE, Frontend, and Full-Stack** roles starting 2026
