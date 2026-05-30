@@ -10,16 +10,13 @@
 
 </div>
 
----
-
-#### 😄 Pronouns
-She/Her
+##
 
 #### 🌱 What do I do and What have I done?
 
 - Currently pursuing my Master's in Computer Software Engineering at Northeastern University
 - Previously Full Stack Developer Intern @Aikreate
-- Lately deep diving into RAG and Flutter
+- Lately deep diving into RAG and Application Engineering
 - HMU if you're working at the intersection of **frontend + AI**
 
 ---
