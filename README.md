@@ -28,19 +28,19 @@ She/Her
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,redux,vite,webpack)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,redux,vite,webpack)
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring,graphql)](https://skillicons.dev)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring,graphql)
 
 **Databases & Tools**
 
-[![DB & Tools](https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,postman)](https://skillicons.dev)
+![DB & Tools](https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,postman)
 
 **Design**
 
-[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+![Design](https://skillicons.dev/icons?i=figma)
 
 ---
 
