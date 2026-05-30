@@ -10,7 +10,6 @@
 
 </div>
 
-##
 
 #### 🌱 What do I do and What have I done?
 
@@ -19,7 +18,7 @@
 - Lately deep diving into RAG and Application Engineering
 - HMU if you're working at the intersection of **frontend + AI**
 
----
+##
 
 #### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,7 +47,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
----
+##
 
 #### 🚀 Projects
 
@@ -56,7 +55,7 @@
 |--------|-------|------|
 | **EchoMates** — UX prototype for a networking platform for international students | Figma | [Prototype](#) |
 
----
+##
 
 #### 💼 What I'm looking for
 
