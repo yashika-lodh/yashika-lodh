@@ -54,7 +54,7 @@
 
 | Project | Stack | Link |
 |--------|-------|------|
-| **EchoMates** — UX prototype for a networking platform for international students | Figma | [Prototype](#) |
+| **EchoMates** — UX prototype for a networking platform for international students | Figma | [Prototype]([#](https://www.figma.com/proto/3u2ld0cwqUJsEVEdyeFcym/EchoMates?node-id=516-1980&page-id=0%3A1&starting-point-node-id=516%3A1960&t=Ndr00PynkR6rP09P-1)) |
 
 ##
 
