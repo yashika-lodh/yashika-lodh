@@ -27,10 +27,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,vite,nodejs,express,python,fastapi,java,spring,graphql,mongodb,mysql,firebase,git,github,githubactions,vscode,postman,figma,vercel,netlify,npm&perline=12" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" /></a>
-</p>
-
 ##
 
 #### 🚀 Projects
