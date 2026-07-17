@@ -75,3 +75,11 @@
 #### 💼 What I'm looking for
 
 Open to **SE, Frontend, and Full-Stack** roles starting January 2027
+
+<br>
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=yashika-lodh&label=visitors&color=2dba9e&style=flat)
+
+</div>
