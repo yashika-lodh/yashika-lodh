@@ -35,7 +35,10 @@
   <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" width="48" height="48" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48" />&nbsp;
@@ -47,12 +50,16 @@
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=npm" title="npm" alt="npm" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=npm" title="npm" alt="npm" width="48" height="48" />&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" title="Framer" alt="Framer" width="48" height="48" />
 </p>
 
 ##
