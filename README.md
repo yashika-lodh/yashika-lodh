@@ -39,4 +39,4 @@
 
 #### 💼 What I'm looking for
 
-Open to **SE, Frontend, and Full-Stack** roles starting 2026
+Open to **SE, Frontend, and Full-Stack** roles starting January 2027
